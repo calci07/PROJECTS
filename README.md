@@ -2,11 +2,11 @@
 
 <img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/27cfe70f-f0df-45b8-8a27-0e6e7a7d726a" />
 
-### Visit my portfolio
-
-<a href="https://ralddev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+### Visit my portfolio: <a href="https://ralddev.vercel.app/">
+  <img src="https://img.shields.io/badge/rald.dev-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
+
+
 
 # PROJECTS
 
