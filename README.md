@@ -5,7 +5,7 @@
 ### Visit my portfolio
 
 <a href="https://ralddev.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="45" />
+  <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="85" />
 </a>
 
 # PROJECTS
