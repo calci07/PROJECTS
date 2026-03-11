@@ -4,7 +4,7 @@
 
 ### Visit my portfolio
 
-[![Portfolio:](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=black)](https://ralddev.vercel.app/)
+[![Portfolio:](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ralddev.vercel.app/)
 
 # PROJECTS
 
