@@ -5,8 +5,8 @@
 ### Visit my portfolio:
 
 [![buildwithgerald.me](https://img.shields.io/badge/buildwithgerald.me-24292e?style=for-the-badge&logo=vercel&logoColor=white)](https://www.buildwithgerald.me/)
-  <img src="https://img.shields.io/badge/buildwithgerald.me-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+
+
 
 # SELECTED PROJECTS
 
